@@ -1,0 +1,12 @@
+h3 {
+  margin-top: 20px;
+}
+
+body {
+  margin-left: 20px;
+}
+
+#story {
+  display: none;
+  color: favoriteColor;
+}
